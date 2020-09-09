@@ -102,7 +102,9 @@ GIT-HUB
 
 
 
-COMO EJECUTARLO
+
+
+COMO EJECUTARLO:
 
 para la ejecución de los algoritmos:
 
