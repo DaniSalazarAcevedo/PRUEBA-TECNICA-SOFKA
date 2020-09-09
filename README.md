@@ -14,17 +14,17 @@ PSEUDOCODIGO
 
 PUNTO 1 
 
-  Algoritmo Pasaje
-   definir distancia , descuento, valorp, pago como real;
-   	definir dias_estancia Como Entero;
+     Algoritmo Pasaje
+            definir distancia , descuento, valorp, pago como real;
+   	    definir dias_estancia Como Entero;
 
-  escribir "INGRESE LOS KM DE DISTANCIA A RECORRER";
-  leer distancia ;
-  escribir "INGRESE LOS DIAS DE ESTANCIA ";
-  leer dias_estancia;
+       escribir "INGRESE LOS KM DE DISTANCIA A RECORRER";
+       leer distancia ;
+       escribir "INGRESE LOS DIAS DE ESTANCIA ";
+       leer dias_estancia;
 	  valor_kilometro = 35.00; 
- valorp=valor_kilometro*distancia
- descuento = distancia* valor_kilometro* 0.3;
+      valorp=valor_kilometro*distancia
+      descuento = distancia* valor_kilometro* 0.3;
 		pago = valorp - descuento
 		
 	SiNo
@@ -43,7 +43,7 @@ PUNTO 1
 PUNTO 2
 
 
-mayor = 0, menor = 501, bucle = 0, p = 0, b = 0, lb = 0, px = 0, i = 0, n = 0	   
+     mayor = 0, menor = 501, bucle = 0, p = 0, b = 0, lb = 0, px = 0, i = 0, n = 0	   
     while bucle = 0
         p = 0
 	        while p = 0
@@ -60,7 +60,7 @@ mayor = 0, menor = 501, bucle = 0, p = 0, b = 0, lb = 0, px = 0, i = 0, n = 0
 	                px = px - b
 	                p = 0
             endif
-	        endwhile
+	                   endwhile
        
 	        if mayor < b
             mayor = b
