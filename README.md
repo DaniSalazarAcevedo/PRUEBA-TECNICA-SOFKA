@@ -37,7 +37,7 @@ PUNTO 1
 	escribir "EL DESCUENTO ES DE : $",descuento
 
 
-  FinAlgoritmo
+     FinAlgoritmo
  
 
 PUNTO 2
@@ -95,7 +95,9 @@ PUNTO 2
 TECNOLOGIAS UTILIZADAS
 
 NETBEANS - JAVA
+
 PSEINT
+
 GIT-HUB
 
 
